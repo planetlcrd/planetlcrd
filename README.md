@@ -15,4 +15,7 @@
 
 ###### <div align="center">  ֔𓉸　ac @karaisfound_ & @__ farat __ on x 𓈒　![image](https://github.com/floralies/test/blob/478a2a9f2150e89b383d179fe78f2ff3acee3513/IMG_2304.gif)
 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=g0ajh2dlv0n03s8ei2qrox2vi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=5b34a4&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=g0ajh2dlv0n03s8ei2qrox2vi&redirect=true)
+
 <br clear="left"/>
